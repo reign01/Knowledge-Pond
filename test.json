@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Small Jeans",
+    "photo_url": "https://finepointmobile.com/data/jeans1.jpg",
+    "description": "This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? ",
+    "price": 29.49,
+    "isOnSale": true
+  },
+  {
+    "name": "Black Shirt",
+    "photo_url": "https://finepointmobile.com/data/jeans2.jpg",
+    "description": "This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? ",
+    "price": 19.49,
+    "isOnSale": false
+  }
+  ]
